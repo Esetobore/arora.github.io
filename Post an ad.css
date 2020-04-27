@@ -1,0 +1,149 @@
+body {
+    background-image: url(abuad.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.signUp {
+    width: 70%;
+    height: 900px;
+    text-align:left;
+    background-color:rgb(143, 119, 119);
+    margin-left: 15%;
+    margin-top: 80px;
+    border-radius: 28px;
+}
+
+.contact {
+    height: 60px;
+    width: 60px;
+    margin-top: -22px;
+}
+
+.signUp h1 {
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    font-size:35px;
+    color: blue;
+    margin-bottom: 40px;
+}
+
+.inputBox {
+    display: block;
+    border-radius: 9px;
+    margin-bottom: 40px;
+    outline-color: black;
+    width: 60%;
+    background-color:bisque;
+    color: black;
+    font-style: italic;
+    margin-left: 30px;
+    height: 45px;
+}
+
+#inputBox {
+    display: block;
+    border-radius: 9px;
+    outline: none;
+    width: 60%;
+    background-color: bisque;
+    color: black;
+    font-style: italic;
+    margin-left: 30px;
+    height: 90px;
+    padding-bottom: 50px;
+}
+
+.tnc {
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.myBtn{
+    width: 60%;
+    border-radius: 20%;
+}
+
+.account {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#wrap p {
+    font-stretch: semi-expanded;
+    margin-left: 30px;
+    font-style: italic;
+    font-weight: 600;
+    color: silver;
+}
+.mylist{
+    display: block;
+    border-radius: 9px;
+    outline: none;
+    width: 70%;
+    background-color: bisque;
+    color: black;
+    font-style: italic;
+    margin-left: 30px;
+    height: 45px;
+}
+.Adinfo{
+    
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: black;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+#final{
+    text-align: center;
+    margin-top: 100px;
+    width: 60%;
+    padding-left: 400px;
+}
+#headet{
+    text-decoration: wavy;
+    text-align: center;
+}
+.photo{
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+#text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-style: italic;
+    color:black ;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+#title{
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 30px;
+    color: black;
+    font-style: italic;
+}
+#description{
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 30px;
+    font-style: italic;
+    color: black;
+}
+#heading{
+ text-align: center;
+ color:black;
+ padding-bottom: 20px;
+ margin-right: 50px;
+ padding-left: 10px;
+ padding-top: 5px;
+ margin-left: 20px;
+}
+#home{
+    color:rgb(10, 10, 63);
+    font-weight: 400;
+}

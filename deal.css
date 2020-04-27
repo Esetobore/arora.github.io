@@ -1,0 +1,250 @@
+#wrap {
+	width: 98%;
+	margin: 0 auto;
+	background: #75757a;
+}
+
+
+.firstNav {
+	background: #75757a;
+	height: 30px;
+	
+}
+
+.Nav2 {
+	background: #fcfbe3;
+	height: 70px;
+	
+}
+
+.smallNav {
+	float:right;
+	padding:0 300px;
+}
+
+.smallNav li {
+	display: inline-block;
+	padding: 0 20px;
+	line-height:30px;
+	list-style:none;
+}
+.smallNav li a {
+	color:white;
+	text-decoration: none;
+}
+
+.sell {
+	list-style:none;
+	color:white;
+	font-size:12px;
+	line-height: 30px;
+	padding: 0 120px;
+}
+
+.logo2 {
+	list-style:none;
+	color:black;
+	font-size:38px;
+	line-height: 70px;
+	padding: 0 110px;
+	font-family:sans;
+}
+
+
+.smallNav2 {
+	float:right;
+	padding: 0 90px;
+}
+
+.smallNav2 li {
+	display: inline-block;
+	padding: 0 15px;
+	list-style:none;
+	font-size:15px;
+	line-height:70px;
+}
+.logo2 a {
+	text-decoration: none;
+}
+
+.smallNav2 li a {
+	text-decoration: none;
+}
+
+
+.smallNav2 .form-inline .form-control {
+	width: 400px;
+}
+
+.main1 {
+    background-color: #fcfbe3;
+    margin-top: 20px;
+    height: 30px;
+}
+
+.deal {
+    color: black;
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:0 20px;
+    line-height: 30px;
+}
+
+.content {
+    display: flex;
+    margin-top: 40px;
+}
+
+.content1 {
+    height: 350px;
+	width: 20%;
+	background: #fcfbe3;
+    border-radius: 9px;
+}
+
+.content1 h4 {
+	margin-left: 20px;
+	font-weight: 600;
+}
+
+
+.listClass {
+	list-style: none;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 30px;
+	font-family: Helvetica Neue;
+	padding-top: 10px;
+}
+
+.main2 {
+    background-color: #fcfbe3;
+    height: 200px;
+    margin-left: 40px;
+    border-radius: 9px;
+    margin-bottom: 20px;
+}
+
+.sub1 {
+    display: inline;
+}
+.sub1 img {
+    height: 200px;
+    width: 200px;
+}
+
+.textButton2 {
+    width: 180px;
+    margin-top: 20px;
+}
+
+.detail {
+ float: right;
+ margin-left:600px;
+ margin-right: 30px;
+ margin-top: -190px;
+}
+
+.detail p {
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.detail word {
+    font-size: 15px;
+    color: grey;
+    font-weight: 500;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.detail y {
+    font-size: 27px;
+    color: red;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+footer {
+	height: 290px;
+	margin-top:70px;
+	background:rgba(8, 7, 7, 0.753);
+	display: inline-block;
+}
+
+.footer1 {
+	width:25%;
+	color: white;
+	float:left;
+	margin-top: 10px;
+	margin-left: 70px;
+}
+
+.footer1 li {
+	list-style: none;
+	font-size: small;
+	margin-left: -40px;
+	margin-bottom: 10px;
+}
+
+.logo3 {
+	list-style:none;
+	color:white;
+	font-size:38px;
+	line-height: 70px;
+	font-family:sans;
+	font-weight: 600;
+}
+
+.footer2 {
+	width:42%;
+	color: white;
+	float:left;
+	margin-top: 10px;
+	margin-left: 70px;
+}
+
+.new{
+	margin-top: 20px;
+	font-weight: 500;
+}
+
+.new2 {
+	font-style: italic;
+	font-size:smaller;
+	margin-bottom: 20px;
+}
+.footer2 .form-inline .form-control {
+	width: 400px;
+}
+
+.footer2 li {
+	list-style: none;
+	font-size: small;
+	margin-left: -40px;
+	margin-bottom: 10px;
+}
+
+.footer3 {
+	color: white;
+	float:left;
+}
+
+.footer3 li {
+	list-style: none;
+	font-size: small;
+	margin-left: -40px;
+	margin-bottom: 10px;
+	font-style: italic;
+}
+
+.new3{
+	margin-top: 30px;
+	font-weight: 500;
+}
